@@ -1,5 +1,5 @@
 ext {
-    moduleLibraryName = "il2cppdumper FREE FIRE"
+    moduleLibraryName = "il2cppdumperff"
     magiskModuleId = "zygisk_il2cppdumper_ff"
     moduleName = "Il2CppDumperFF"
     moduleAuthor = "Perfare"
