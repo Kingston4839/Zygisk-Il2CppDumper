@@ -1,9 +1,9 @@
 ext {
-    moduleLibraryName = "il2cppdumperlokapala"
-    magiskModuleId = "zygisk_il2cppdumper_Lokapala"
-    moduleName = "Il2CppDumperLokapala"
+    moduleLibraryName = "il2cppdumperneverland"
+    magiskModuleId = "zygisk_il2cppdumper_Neverland"
+    moduleName = "Il2CppDumperNeverland"
     moduleAuthor = "Perfare"
-    moduleDescription = "Il2CppDumper Lokapala Zygisk version."
+    moduleDescription = "Il2CppDumper Neverland Zygisk version."
     moduleVersion = "v1.2.0"
     moduleVersionCode = 1
 }
