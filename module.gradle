@@ -1,9 +1,9 @@
 ext {
-    moduleLibraryName = "il2cppdumperec2"
-    magiskModuleId = "zygisk_il2cppdumper_Ec2"
-    moduleName = "Il2CppDumperEc2"
+    moduleLibraryName = "il2cppdumpercodm"
+    magiskModuleId = "zygisk_il2cppdumper_Codm"
+    moduleName = "Il2CppDumperCodm"
     moduleAuthor = "Perfare"
-    moduleDescription = "Il2CppDumper Epic Conquest 2 Zygisk version."
+    moduleDescription = "Il2CppDumper Codm Garena Zygisk version."
     moduleVersion = "v1.2.0"
     moduleVersionCode = 1
 }
